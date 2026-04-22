@@ -5,5 +5,6 @@
 ** mango
 ** lichi
 ** jackfruit
-* salt
+
 ## Instructions
+* put one avocado into bowl
