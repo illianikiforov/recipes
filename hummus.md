@@ -4,4 +4,6 @@
 * lemon
 * olive oil
 * salt
+* milk
+* bread
 
