@@ -5,7 +5,7 @@
 * lime (1)
 * salt (1.5)
 ## Instuctions
-peel the avocados
+peel the avocados and cut them
 
 =======
 ** avocado
