@@ -15,5 +15,5 @@ peel the avocados and cut them
 ** jackfruit
 
 ## Instructions
-* put one avocado into bowl
+* put one avocado into bowl and cook it
 >>>>>>> c96bfb382c0a098fb1287dcb0d4b053fa4512891
